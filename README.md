@@ -221,6 +221,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Built with ❤️ by [Mohammad Sharique Sabir](https://github.com/m-sharique-sabir)**
 
-© 2025 Mohammad Sharique Sabir. All rights reserved.
+© 2026 Mohammad Sharique Sabir. All rights reserved.
 
 </div>
